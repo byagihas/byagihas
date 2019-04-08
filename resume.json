@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "Brandon Yagihashi",
+    "label": "Digital Services Specialist",
+    "picture": "",
+    "email": "byagihas.us",
+    "phone": "",
+    "website": "https://byagihas.us",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Seattle",
+      "countryCode": "WA",
+      "region": "Washington"
+    },
+    "profiles": [{
+      "network": "",
+      "username": "",
+      "url": ""
+    }]
+  },
+  "work": [{
+    "company": "Oracle",
+    "position": "Campaign Specialist",
+    "website": "https://oracle.com",
+    "startDate": "2017-05-08",
+    "endDate": "Present",
+    "summary": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "volunteer": [{
+    "organization": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "education": [{
+    "institution": "Michigan State University",
+    "area": "Media and Information",
+    "studyType": "Bachelor",
+    "startDate": "2010-08-01",
+    "endDate": "2015-05-01",
+    "gpa": "",
+    "courses": [
+      ""
+    ]
+  }],
+  "awards": [{
+    "title": "",
+    "date": "",
+    "awarder": "",
+    "summary": ""
+  }],
+  "publications": [{
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  }],
+  "skills": [{
+    "name": "Digital Development",
+    "level": "Experienced",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "",
+    "keywords": [
+      "",
+      ""
+    ]
+  }],
+  "references": [{
+    "name": "",
+    "reference": ""
+  }]
+}
